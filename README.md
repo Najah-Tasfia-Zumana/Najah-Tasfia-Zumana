@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Zumana! 
 
-<!--
-**Najah-Tasfia-Zumana/Najah-Tasfia-Zumana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student specializing in **Data Science** at Monash University  
+📊 Passionate about **AI, Machine Learning, and Data Visualization**  
+⚡ Skilled in **Python, R, C++, SQL, TensorFlow, PyTorch, Tableau, Power BI**  
+🌱 Currently exploring **Deep Learning** and **real-world data applications**  
+📂 Building projects in my [**GitHub portfolio**](https://github.com/Najah-Tasfia-Zumana) — always learning, always experimenting  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Zumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najah-Tasfia-Zumana&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najah-Tasfia-Zumana&layout=compact&theme=radical)
+
+
+
